@@ -1,0 +1,11 @@
+# 不要フォルダ
+00_Rsc/
+
+build/
+node_modules/
+test/
+
+# 不要ファイル
+_00_memo.txt
+
+package-lock.json
